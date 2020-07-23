@@ -53,3 +53,6 @@ normWrapper <- function(Data, SeqDepth=NULL, Slopes=NULL, CondNum=NULL,
     return(NormDataList)
 }
 
+
+
+#testing github line
